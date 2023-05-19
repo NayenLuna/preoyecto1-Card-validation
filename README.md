@@ -261,7 +261,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
   <details><summary>Links</summary><p>
 
-  * [Introducción a eventos - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Events)
+  * [Introducción a eventos - MDN](//developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Eventshttps:)
   * [EventTarget.addEventListener() - MDN](https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener)
   * [EventTarget.removeEventListener() - MDN](https://developer.mozilla.org/es/docs/Web/API/EventTarget/removeEventListener)
   * [El objeto Event](https://developer.mozilla.org/es/docs/Web/API/Event)
